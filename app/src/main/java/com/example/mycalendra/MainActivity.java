@@ -76,7 +76,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         }
     }
 }
-
+    // This is the orignal code from the video but it had some errors.
    /* @Override
     public void onClick(View view) {
         num1 = getInFromEditText(editTextN1);
