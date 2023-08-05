@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -47,8 +48,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     @Override
     public void onClick(View view) {
-        num1 = getIntFromEditText(editTextN1);
-        num2 = getIntFromEditText(editTextN2);
+        num1 = getInFromEditText(editTextN1);
+        num2 = getInFromEditText(editTextN2);
 
         String operation = view.getTag().toString(); // Retrieve the operation from the clicked button's tag
 
