@@ -70,7 +70,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 if (num2 != 0) {
                     textview.setText("Answer = " + ((float) num1 / num2));
                 } else {
-                    textview.setText("Answer = Infinity"); // or any other appropriate message
+                    textview.setText("Answer = Infinity");
                 }
                 break;
         }
