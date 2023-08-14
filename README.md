@@ -7,4 +7,3 @@ The app doesnt crashes anymore. (07/08/2023)
 
 https://www.youtube.com/watch?v=4DGLcL4v6Qo&t=807s THIS IS THE LINK TO THE VIDEO. 
 
-Whenever an operation is selected after entering values, the app closes (06/08/2023) 
